@@ -1,0 +1,4 @@
+10:29:55 [main] INFO  com.demoautomatizacion.test.LoginTest - INICIA LA EJECUCION DE LA CLASE LoginTest.java
+10:29:55 [main] INFO  com.demoautomatizacion.test.LoginTest - SE INICIA LA EJECUCION DEL TEST ingresarPortalAlmaviva
+10:29:55 [main] INFO  com.demoautomatizacion.test.LoginTest - SE EMPIEZA A GENERAR EVIDENCIA
+10:30:40 [main] INFO  com.demoautomatizacion.test.LoginTest - FINALIZA LA EJECUCION DEL TEST
